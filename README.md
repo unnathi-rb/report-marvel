@@ -3,10 +3,9 @@ By doing this task, I understood the use of APIs and how we can build and custom
 I have created an application to get major details about any movie just by providing the title. I have used the API key from omdb api provider.
 For programming , I used Javascript and added frontend features using html and css.
 ![Screenshot 2024-12-31 232408](https://github.com/user-attachments/assets/e5231a07-a5a1-452b-a211-30b968175e35)
+https://github.com/unnathi-rb/API.git
 
-## Github
-Github task helped me understand the basics of forking and cloning repositories on Github.I learnt about how github can become a platform where we can explore several projects and help each other debugg and improve the projects.
-![Screenshot 2025-01-01 170441](https://github.com/user-attachments/assets/828c90ff-fb24-46ac-b285-6bc207710a83)
+
 
 
 ## Command line on Ubantu
@@ -23,20 +22,26 @@ Kaggle is a platform for data science and machine learning professionals, on whi
 
 ## Pandas and Matplotlab
 The panda and matplotlab features of python used in representing the data set and statistics.I used these features to plot a graph to depict the common bill amounts of a restaurant. This visual representation though matplotlab helps in easy understanding the data set and drawing conclutions through statistics.
-![Screenshot 2024-12-31 234428](https://github.com/user-attachments/assets/190692e9-7df3-4079-b6d9-5219c7fa1c62)
-
+![Screenshot 2024-12-31 234428](https://github.com/user-attachments/assets/ea0adf7c-f77e-4d50-a6ee-b11ac3d3e172)
 
 ## Portfolio webpage
-I created a personal portfolio website using html and css. It was an oppurtunity to work with full creativity.
+I created a personal portfolio website using html and css. It was an oppurtunity to work with full creativity.Link for the website:
+https://github.com/unnathi-rb/Personal-portfolio.git
 
 ## Article using markdown
-I wrote an intresting article about digital twin using markdown markup language.I used the features of headings , subheadings ,bolding the text and more.
+I wrote an intresting article about digital twin using markdown markup language.I learnt and used the features of headings,subheadings,bold text and adding images in markdwon.
+Link for the repository:
+https://github.com/unnathi-rb/Article.git
 
 ## Tinkercad
 In this task,i designed a circuit where an ultrasonic sensor combined with a servo motor will act as a radar covering a wider region. As soon as the object is away from the range of sensor the servo motor is initiated and it rotates to help in detection of obstacles over a larger area.Through this task i learnt the basics of tinkercad, how to select elements of circuit,design and stimulate the circuit.
+![image](https://github.com/user-attachments/assets/c2864462-967e-40c7-b106-72adff220d9c)
+![image](https://github.com/user-attachments/assets/17725382-f21b-4e7e-a56f-57a1282474ea)
+
 
 ## Speed control of DC motor
 In this task, I built a circuit to control speed of a DC motor using a potentiometer. An Arduino board,a motor,a motor driver,a battery and a potentiometer.
+
 
 ## LED Toggle using ESP32
 Through this task , I learnt about the ESP32 and used it to control LED. Used the Arduino IDE to upload the code to program the ESP32.
@@ -58,14 +63,24 @@ It was a hands on experience working with linux commands.Sad servers is a softwa
 
 
 ## Datasheet Report writing
-I wrote a report on L293D Motor driver.Learnt a lot about this IC ,it has a capacity to control two DC motors at a time.wrote a report about this using markdown.
+I wrote a report on L293D Motor driver.Learnt a lot about this IC ,it has a capacity to control two DC motors at a time. Wrote a report about this using markdown.
+
 
 
 ## 555 oscillator
 555 oscillator is a relaxation ossilator used for generating square wave forms.They can be used to create clock signals and time delays.In this task, a circuit with a 555 IC is used with resisters and capacitors to create an ossilator.An oscillospcope is used to observe the wave forms.
+![image](https://github.com/user-attachments/assets/a7fdee23-f6be-45ef-b878-cef6dd06a0fb)
+
+
 
 ## Active participation
 I took part in the Kagada 20- a Technical student conference conducted by IEEE UVCE.I participated in poster presentation competation , made a poster on Microbots in neurosurgery.
+![image](https://github.com/user-attachments/assets/781b8fe5-f88c-4a70-91a7-08a038849bcf)
+
+
+## Github
+Github task helped me understand the basics of forking and cloning repositories on Github.I learnt about how github can become a platform where we can explore several projects and help each other debugg and improve the projects.
+![Screenshot 2025-01-01 170441](https://github.com/user-attachments/assets/828c90ff-fb24-46ac-b285-6bc207710a83)
 
 
 
