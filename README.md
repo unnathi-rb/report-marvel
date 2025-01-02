@@ -1,12 +1,9 @@
 ## API 
 By doing this task, I understood the use of APIs and how we can build and customize an application using a relevant API key from a provider.
 I have created an application to get major details about any movie just by providing the title. I have used the API key from omdb api provider.
-For programming , I used Javascript and added frontend features using html and css.
+For programming , I used Javascript and added frontend features using html and css. link: https://github.com/unnathi-rb/API.git
+
 ![Screenshot 2024-12-31 232408](https://github.com/user-attachments/assets/e5231a07-a5a1-452b-a211-30b968175e35)
-https://github.com/unnathi-rb/API.git
-
-
-
 
 ## Command line on Ubantu
 Learnt a few basic commands required to perform certain tasks on ubantu.I performed tasks like creating folders,creating files, adding text content into a file, locating and listing the files,etc.I also learnt to concatinate text files.
@@ -41,6 +38,10 @@ In this task,i designed a circuit where an ultrasonic sensor combined with a ser
 
 ## Speed control of DC motor
 In this task, I built a circuit to control speed of a DC motor using a potentiometer. An Arduino board,a motor,a motor driver,a battery and a potentiometer.
+![image](https://github.com/user-attachments/assets/23a0bdc0-ca99-46b8-bc4b-7ce7185e9309)
+![3cf8c67b-4b2f-4b8e-9729-1adf4dfb5257](https://github.com/user-attachments/assets/c7f472e6-cee8-414e-a23f-192c716ef21e)
+
+
 
 
 ## LED Toggle using ESP32
@@ -50,6 +51,9 @@ Through this task , I learnt about the ESP32 and used it to control LED. Used th
 
 ## Soldering
 It was simple task where I learnt how soldering is a simple process of joing metal peices using a filler meterial called solder.Got to know the basics of soldering, the meterial used,soldering temperature, safety requirements,etc. I soldered an LED and a resitor onto a perf board.
+![5508cec2-fb80-4f32-a0ea-cfcacbf581c9](https://github.com/user-attachments/assets/4d8c6cba-fe1b-495e-9308-c9bd4311d196)
+
+
 
 ## Karnaugh Maps and Deriving the logic circuit
 K map is graphical technique of simplifying Boolean expressions.In this task we used the k map concepts to program an alarm buzzer to beep when a theif breaks into a place. Intially wrote the logic using kmap and then designed a circuit on tinkercad and stimulated it.
@@ -64,14 +68,13 @@ It was a hands on experience working with linux commands.Sad servers is a softwa
 
 ## Datasheet Report writing
 I wrote a report on L293D Motor driver.Learnt a lot about this IC ,it has a capacity to control two DC motors at a time. Wrote a report about this using markdown.
-
+Link: https://github.com/unnathi-rb/L293D-.git
 
 
 ## 555 oscillator
 555 oscillator is a relaxation ossilator used for generating square wave forms.They can be used to create clock signals and time delays.In this task, a circuit with a 555 IC is used with resisters and capacitors to create an ossilator.An oscillospcope is used to observe the wave forms.
 ![image](https://github.com/user-attachments/assets/a7fdee23-f6be-45ef-b878-cef6dd06a0fb)
-
-
+![image](https://github.com/user-attachments/assets/8156c7a3-db21-4058-9797-b83fdcded3cc)
 
 ## Active participation
 I took part in the Kagada 20- a Technical student conference conducted by IEEE UVCE.I participated in poster presentation competation , made a poster on Microbots in neurosurgery.
