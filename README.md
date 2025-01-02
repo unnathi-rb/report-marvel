@@ -1,18 +1,33 @@
 ## API 
+The task was to create a user interface using API.
 By doing this task, I understood the use of APIs and how we can build and customize an application using a relevant API key from a provider.
-I have created an application to get major details about any movie just by providing the title. I have used the API key from omdb api provider.
-For programming , I used Javascript and added frontend features using html and css. link: https://github.com/unnathi-rb/API.git
+I have created an application to get major details about any movie just by providing the title. I have used the API key from OMDb API provider.
+For programming , I used Javascript and added frontend features using html and css.
+Link: https://github.com/unnathi-rb/API.git
 
 ![Screenshot 2024-12-31 232408](https://github.com/user-attachments/assets/e5231a07-a5a1-452b-a211-30b968175e35)
 
 ## Command line on Ubantu
-Learnt a few basic commands required to perform certain tasks on ubantu.I performed tasks like creating folders,creating files, adding text content into a file, locating and listing the files,etc.I also learnt to concatinate text files.
+The task was to get familiar with the command line on Ubantu and perform the assigned tasks.
+Learnt a few basic commands required to perform certain tasks on ubantu.I performed tasks like
+- Creating folders.
+- Creating files.
+- Adding text content into a file.
+- Listing the files.
+- Concatenating text files.
 ![image](https://github.com/user-attachments/assets/b27974e9-d8dc-4f73-8323-0f123bc9f056)
 ![image](https://github.com/user-attachments/assets/3544c547-1932-4293-8790-cced10c3ed3e)
 
-
 ## Kaggle contest
-Kaggle is a platform for data science and machine learning professionals, on which users can compete with each other to create the best models for solving specific problems.This task was to compete in a competition on kaggle,it involved the creative problem solving combined with coding concepts. I studied the data sheet and tried to figure out all the factors that could affect the possibility of survival in the titanic Shipwreck. I used python with advanced features of panda and scikit-learn. I also used the XGBoost which allows the use of decision trees to predict the possibilities.I had to figure out the ways to improve the ways of increasing the efficiency of the ML model.The prediction model considers major factors like age, deck location,gender, fare and the class of passengers.  
+Kaggle is a platform for data science and machine learning professionals, on which users can compete with each other to create the best models for solving specific problems.
+This task was to compete in a competition on kaggle named Titanic-Machine Learning from Disaster.It involved the creative problem solving combined with coding concepts. I studied the data sheet and tried to figure out all the factors that could affect the possibility of survival in the titanic Shipwreck.The prediction model considers major factors like age, deck location,gender, fare and the class of passengers.
+
+### Few new concepts learnt while finding ways to improve efficiency of the ML model:
+- Python with advanced features of panda and scikit-learn.
+  - Scikit-learn: An advanced library in python. Here it is used to split the data and cross validate the possibilities.
+  - Panda: Used the panda library to read and store information avaliable in Dataframes.Also used for categorizing age into bins.
+- XGBoost which allows the use of decision trees to predict the possibilities.
+  
 ![Screenshot 2024-12-31 233837](https://github.com/user-attachments/assets/8af7d8bd-29ba-4648-b255-8eb48e101a6c)
 ![Screenshot 2024-12-31 233447](https://github.com/user-attachments/assets/48913638-fdc8-424f-b06f-3b6014e79eaf)
 
@@ -22,7 +37,8 @@ The panda and matplotlab features of python used in representing the data set an
 ![Screenshot 2024-12-31 234428](https://github.com/user-attachments/assets/ea0adf7c-f77e-4d50-a6ee-b11ac3d3e172)
 
 ## Portfolio webpage
-I created a personal portfolio website using html and css. It was an oppurtunity to work with full creativity.Link for the website:
+I created a personal portfolio website using html and css. It was an oppurtunity to work with full creativity.
+Link for the website:
 https://github.com/unnathi-rb/Personal-portfolio.git
 
 ## Article using markdown
@@ -41,19 +57,13 @@ In this task, I built a circuit to control speed of a DC motor using a potentiom
 ![image](https://github.com/user-attachments/assets/23a0bdc0-ca99-46b8-bc4b-7ce7185e9309)
 ![3cf8c67b-4b2f-4b8e-9729-1adf4dfb5257](https://github.com/user-attachments/assets/c7f472e6-cee8-414e-a23f-192c716ef21e)
 
-
-
-
 ## LED Toggle using ESP32
 Through this task , I learnt about the ESP32 and used it to control LED. Used the Arduino IDE to upload the code to program the ESP32.
 ![image](https://github.com/user-attachments/assets/e6ac7934-d16b-4e5e-ad2e-a76af01ce09f)
 
-
 ## Soldering
 It was simple task where I learnt how soldering is a simple process of joing metal peices using a filler meterial called solder.Got to know the basics of soldering, the meterial used,soldering temperature, safety requirements,etc. I soldered an LED and a resitor onto a perf board.
 ![5508cec2-fb80-4f32-a0ea-cfcacbf581c9](https://github.com/user-attachments/assets/4d8c6cba-fe1b-495e-9308-c9bd4311d196)
-
-
 
 ## Karnaugh Maps and Deriving the logic circuit
 K map is graphical technique of simplifying Boolean expressions.In this task we used the k map concepts to program an alarm buzzer to beep when a theif breaks into a place. Intially wrote the logic using kmap and then designed a circuit on tinkercad and stimulated it.
