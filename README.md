@@ -61,7 +61,7 @@ Through this task , I learnt about the ESP32.ESP32 is a microcontroller with Wi-
 ![image](https://github.com/user-attachments/assets/e6ac7934-d16b-4e5e-ad2e-a76af01ce09f)
 
 ## TASK 9: Soldering
-It was simple task where I learnt how soldering is a simple process of joing metal peices using a filler meterial called solder.Got to know the basics of soldering, the meterial used,soldering temperature, safety requirements,etc. I soldered an LED and a resitor onto a perf board.
+It was simple task where I learnt how soldering is a simple process of joing metal peices using a filler meterial called solder.Got to know the basics of soldering, the meterial used,soldering temperature, safety requirements,etc. I soldered an LED and a resistor onto a perf board.
 ![5508cec2-fb80-4f32-a0ea-cfcacbf581c9](https://github.com/user-attachments/assets/4d8c6cba-fe1b-495e-9308-c9bd4311d196)
 
 ## TASK 10: Karnaugh Maps and Deriving the logic circuit
