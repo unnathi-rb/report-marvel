@@ -18,7 +18,7 @@ Kaggle is a platform for data science and machine learning professionals, on whi
 
 
 ## Pandas and Matplotlab
-The panda and matplotlab features of python used in representing the data set and statistics.I used these features to plot a graph to depict the common bill amounts of a restaurant. This visual representation though matplotlab helps in easy understanding the data set and drawing conclutions through statistics.
+The panda and matplotlab features of python used in representing the data set and statistics.I used these features to plot a graph to depict the frequency of different bill amounts of a restaurant. This visual representation though matplotlab helps in easy understanding the data set and drawing conclutions through statistics.
 ![Screenshot 2024-12-31 234428](https://github.com/user-attachments/assets/ea0adf7c-f77e-4d50-a6ee-b11ac3d3e172)
 
 ## Portfolio webpage
