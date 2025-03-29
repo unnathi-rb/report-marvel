@@ -106,6 +106,7 @@ In this task I have built a webapp to create ,edit, save posts or blogs. Web app
 - Mangoose: A library that helps in interacting with mongoDB.
 
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-03-29%20125012.png?raw=true)
+![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-03-29%20125040.png?raw=true)
 
 
 
