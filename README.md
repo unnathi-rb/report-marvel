@@ -98,6 +98,15 @@ The task hepled me get familiar with teh github environment.I learnt the basics 
 
 ![Screenshot 2025-01-01 170441](https://github.com/user-attachments/assets/828c90ff-fb24-46ac-b285-6bc207710a83)
 
+#TASK 16: Web App
+In this task I have built a webapp to create ,edit, save posts or blogs. Web app is a software application that runs on a remiote server and can be accessed in a web browser. Tools used:
+- Node.js: a runtime environment for running javascript.
+- Express: web framework 
+- MongoDB: The database to store data entered dinamically.
+- Mangoose: A library that helps in interacting with mongoDB.
+
+![image](
+
 
 
 
