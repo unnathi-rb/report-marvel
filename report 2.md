@@ -84,7 +84,8 @@ link: https://github.com/unnathi-rb/chatapp
 
 # TASK 8: IP Addressing and Web Scraping
 Web srcaping: It is a process of Extracting data from websites.
-In this task I have extracting Job details from RemoteOK Static HTML page using python library BeautifulSoup.In this a HTTP request is sent to the url of that Webpage and then the scraped data is stored in a created exel sheet. Link: https://github.com/unnathi-rb/WEBSCRAPE
+In this task I have extracting Job details from RemoteOK Static HTML page using python library BeautifulSoup.In this a HTTP request is sent to the url of that Webpage and then the scraped data is stored in a created exel sheet.
+Link: https://github.com/unnathi-rb/WEBSCRAPE
 
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/WhatsApp%20Image%202025-05-07%20at%207.49.48%20PM%20(1).jpeg?raw=true)
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-05%20154016.png?raw=true)
