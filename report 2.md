@@ -13,7 +13,7 @@ In this task i understood the working of git as a version control. Using git com
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-03-26%20070654.png?raw=true)
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-03-26%20073536.png?raw=true)
 
-# TASK 4: Database task: DynamoDB
+# TASK 2: Database task: DynamoDB
 In this task I created a user login system that validates the username and passwords of users.
 DynamoDB is a NoSQL database service provided by AWS DynamoDB is a durable, secure data base. I have used Nodejs as backend and then connected it to AWS by Access key ID and secret access key.After this i created a table in DynamoDB for storing the user credentails. Later I used the bcrypt, a password hashing sysytem for security, through this function only the hashed password is stored in database and not the orginal password and is uses slow hashing intentionally to make it harder to crack.Finally I integrated frontned using HTML.
 SQL is a language used to manange database in relational databases, its like a language used to communicate with the database to fetch or store data.
@@ -92,6 +92,7 @@ Link: https://github.com/unnathi-rb/WEBSCRAPE
 
 # TASK 9: Socket.IO
 Socket.io is a Java script library that allows bidirectional communication in real-time, it is a connection between client and server. In this task I built simple chat application using node.js and socket.io where server and browser were able to connect.
+
 link: https://github.com/unnathi-rb/chatapp
 
 
