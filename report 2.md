@@ -20,6 +20,7 @@ SQL is a language used to manange database in relational databases, its like a l
 MySQL is a relational database with stucture data storing tables and it uses SQL language.
 NoSQL is a Non-relational database where the data is not structured but they are document types, key-value pairs, graphs or columns.This database is offers flexibility ,the structure can be changed.
 LINK: https://github.com/unnathi-rb/Dynamo
+![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-04%20141640.png?raw=true)
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-07%20072021.png?raw=true)
 
 
