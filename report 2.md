@@ -62,21 +62,21 @@ Socket.io is a Java script library that allows bidirectional communication in re
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-01%20233236.png?raw=true)
 
 # TASK  : IAAS,PAAS AND SAAS
-## IAAS: Infrastructure as a service: 
+#### IAAS: Infrastructure as a service: 
 - It provides only the infrastructure required. the coustomers have to manage the opearting system , middle ware, applications and data.
 - It provides computing resources like Virtual machines and storage.
-  eg: Amazon EC2
-## PAAS: Platform as a service:
+- eg: Amazon EC2
+#### PAAS: Platform as a service:
 - It provides a platform for developers to build ,deploy and manage applications.
 - Manages the opearting systems and Infrastructure for the users.
 - PAAS is accessed directly through GUI by the users.
 - Useful for developers to optimise time n resource usage.
-  eg: Google App engine
-## SAAS: Software as a Service:
+- eg: Google App engine
+#### SAAS: Software as a Service:
 - It offers a fully working software application over the internet.
 - It manages all the infrastructure and software.
 - The software is ready to use by the users.
-  eg: Email service
+- eg: Email service
 
 
 
