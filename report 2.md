@@ -70,6 +70,12 @@ The Open Systems Interconnection(OSI) model is a conceptual model that represent
 # TASK 7: Messaging app using Encryption Technique
 In this task I created a simple chat application using Nodejs, Socket.io and cryptography. The chat application uses symmetric encryption that is same key for encryption and decryption.
 Tools: Node js, Express js, Socket io, HTML.
+
+##### Cipher: It is a mathematical process that converts plain readable text into cipher text(unreadable) using a secret key.
+- Ceasar Cipher: It is an encryption technique where the letters in plain text are shifted by a certain number of positions.
+- Vigenère Cipher: It is an encryption method where a keyword is used to shift letters of a plain text.
+- Substitution Cipher: A technique where each letter in plain text is replaced by a fixed letter mapping. 
+
 link: https://github.com/unnathi-rb/chatapp
 
 
