@@ -36,6 +36,49 @@ CloudFront is a content delivery system by AWS. When a CloudFront distribution i
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-01%20124829.png?raw=true)
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-01%20124857.png?raw=true)
 
+# Task 5: OSI Model
+The Open Systems Interconnection(OSI) model is a conceptual model that represents how network communication work.It divides the network communication functions into 7 layers-
+- Physical Layer: Layer that is responsible for actual physical connections between devices.Contains information in the form of bits. Physical layers includes devices like cables,hub and modem.
+- Data-Link layer: Provides node-to-node data transfer.(Ethernet,Wifi)
+- Network Layer: Network Layer is responsible for data routing, forwarding, and addressing.(IP)
+- Transport Layer: it provides communication services for applications. It ensures complete data transfer, error recovery, and flow control between hosts.(TCP,UDP)
+- Session Layer: Session Layer manages and controls the connections between computers. It establishes, maintains, and terminates connections.(Sockets)
+- Presentation Layer: The key roles of the Presentation Layer is data translation and code conversion.It also does Data formatting ,encryption and compression.(TLC,SSL)
+- Application Layer: This layer acts as an interface between the user applications and network services.(http,ftp)
+  ![image](https://github.com/unnathi-rb/report-marvel/blob/main/1st%20osi.jpg?raw=true)
+
+# TASK 7: Messaging app using Encryption Technique
+In this task I created a simple chat application using Nodejs, Socket.io and cryptography. The chat application uses symmetric encryption that is same key for encryption and decryption.
+Tools: Node js, Express js, Socket io, HTML.
+![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-01%20233236.png?raw=true)
+
+# TASK 8: IP Addressing and Web Scraping
+Web srcaping: It is a process of Extracting data from websites.
+In this task I have extracting Job details from RemoteOK Static HTML page using python library BeautifulSoup.In this a HTTP request is sent to the url of that Webpage and then the scraped data is stored in a created exel sheet.
+
+
+# TASK  :
+Socket.io is a Java script library that allows bidirectional communication in real-time, it is a connection between client and server. In this task I built simple chat application using node.js and socket.io where server and browser were able to connect.
+![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-01%20233236.png?raw=true)
+
+# TASK  : IAAS,PAAS AND SAAS
+## IAAS: Infrastructure as a service: 
+- It provides only the infrastructure required. the coustomers have to manage the opearting system , middle ware, applications and data.
+- It provides computing resources like Virtual machines and storage.
+  eg: Amazon EC2
+## PAAS: Platform as a service:
+- It provides a platform for developers to build ,deploy and manage applications.
+- Manages the opearting systems and Infrastructure for the users.
+- PAAS is accessed directly through GUI by the users.
+- Useful for developers to optimise time n resource usage.
+  eg: Google App engine
+## SAAS: Software as a Service:
+- It offers a fully working software application over the internet.
+- It manages all the infrastructure and software.
+- The software is ready to use by the users.
+  eg: Email service
+
+
 
 
 
