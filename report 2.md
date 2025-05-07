@@ -21,6 +21,7 @@ MySQL is a relational database with stucture data storing tables and it uses SQL
 NoSQL is a Non-relational database where the data is not structured but they are document types, key-value pairs, graphs or columns.This database is offers flexibility ,the structure can be changed.
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-07%20072021.png?raw=true)
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-03-26%20070654.png?raw=true)
+LINK: https://github.com/unnathi-rb/Dynamo
 
 
 # TASK 3: EC2 Instance
@@ -68,17 +69,23 @@ The Open Systems Interconnection(OSI) model is a conceptual model that represent
 # TASK 7: Messaging app using Encryption Technique
 In this task I created a simple chat application using Nodejs, Socket.io and cryptography. The chat application uses symmetric encryption that is same key for encryption and decryption.
 Tools: Node js, Express js, Socket io, HTML.
+link: https://github.com/unnathi-rb/chatapp
+
+
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-01%20233236.png?raw=true)
+
 
 # TASK 8: IP Addressing and Web Scraping
 Web srcaping: It is a process of Extracting data from websites.
-In this task I have extracting Job details from RemoteOK Static HTML page using python library BeautifulSoup.In this a HTTP request is sent to the url of that Webpage and then the scraped data is stored in a created exel sheet.
+In this task I have extracting Job details from RemoteOK Static HTML page using python library BeautifulSoup.In this a HTTP request is sent to the url of that Webpage and then the scraped data is stored in a created exel sheet. Link: https://github.com/unnathi-rb/WEBSCRAPE
 
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/WhatsApp%20Image%202025-05-07%20at%207.49.48%20PM%20(1).jpeg?raw=true)
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-05%20154016.png?raw=true)
 
 # TASK 9: Socket.IO
 Socket.io is a Java script library that allows bidirectional communication in real-time, it is a connection between client and server. In this task I built simple chat application using node.js and socket.io where server and browser were able to connect.
+link: https://github.com/unnathi-rb/chatapp
+
 
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-01%20233236.png?raw=true)
 
