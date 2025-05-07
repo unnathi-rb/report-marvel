@@ -47,24 +47,7 @@ The Open Systems Interconnection(OSI) model is a conceptual model that represent
 - Application Layer: This layer acts as an interface between the user applications and network services.(http,ftp)
   ![image](https://github.com/unnathi-rb/report-marvel/blob/main/1st%20osi.jpg?raw=true)
 
-# TASK 7: Messaging app using Encryption Technique
-In this task I created a simple chat application using Nodejs, Socket.io and cryptography. The chat application uses symmetric encryption that is same key for encryption and decryption.
-Tools: Node js, Express js, Socket io, HTML.
-![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-01%20233236.png?raw=true)
-
-# TASK 8: IP Addressing and Web Scraping
-Web srcaping: It is a process of Extracting data from websites.
-In this task I have extracting Job details from RemoteOK Static HTML page using python library BeautifulSoup.In this a HTTP request is sent to the url of that Webpage and then the scraped data is stored in a created exel sheet.
-
-![image](https://github.com/unnathi-rb/report-marvel/blob/main/WhatsApp%20Image%202025-05-07%20at%207.49.48%20PM%20(1).jpeg?raw=true)
-![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-05%20154016.png?raw=true)
-
-# TASK  :
-Socket.io is a Java script library that allows bidirectional communication in real-time, it is a connection between client and server. In this task I built simple chat application using node.js and socket.io where server and browser were able to connect.
-
-![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-01%20233236.png?raw=true)
-
-# TASK  : IAAS,PAAS AND SAAS
+# TASK 6: IAAS,PAAS AND SAAS
 #### IAAS: Infrastructure as a service: 
 - It provides only the infrastructure required. the coustomers have to manage the opearting system , middle ware, applications and data.
 - It provides computing resources like Virtual machines and storage.
@@ -80,6 +63,24 @@ Socket.io is a Java script library that allows bidirectional communication in re
 - It manages all the infrastructure and software.
 - The software is ready to use by the users.
 - eg: Email service
+
+
+# TASK 7: Messaging app using Encryption Technique
+In this task I created a simple chat application using Nodejs, Socket.io and cryptography. The chat application uses symmetric encryption that is same key for encryption and decryption.
+Tools: Node js, Express js, Socket io, HTML.
+![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-01%20233236.png?raw=true)
+
+# TASK 8: IP Addressing and Web Scraping
+Web srcaping: It is a process of Extracting data from websites.
+In this task I have extracting Job details from RemoteOK Static HTML page using python library BeautifulSoup.In this a HTTP request is sent to the url of that Webpage and then the scraped data is stored in a created exel sheet.
+
+![image](https://github.com/unnathi-rb/report-marvel/blob/main/WhatsApp%20Image%202025-05-07%20at%207.49.48%20PM%20(1).jpeg?raw=true)
+![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-05%20154016.png?raw=true)
+
+# TASK 9: Socket.IO
+Socket.io is a Java script library that allows bidirectional communication in real-time, it is a connection between client and server. In this task I built simple chat application using node.js and socket.io where server and browser were able to connect.
+
+![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-01%20233236.png?raw=true)
 
 
 
