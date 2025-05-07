@@ -19,9 +19,9 @@ DynamoDB is a NoSQL database service provided by AWS DynamoDB is a durable, secu
 SQL is a language used to manange database in relational databases, its like a language used to communicate with the database to fetch or store data.
 MySQL is a relational database with stucture data storing tables and it uses SQL language.
 NoSQL is a Non-relational database where the data is not structured but they are document types, key-value pairs, graphs or columns.This database is offers flexibility ,the structure can be changed.
-![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-07%20072021.png?raw=true)
-![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-03-26%20070654.png?raw=true)
 LINK: https://github.com/unnathi-rb/Dynamo
+![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-07%20072021.png?raw=true)
+
 
 
 # TASK 3: EC2 Instance
