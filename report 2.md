@@ -17,7 +17,7 @@ In this task i understood the working of git as a version control. Using git com
 In this task I created a user login system that validates the username and passwords of users.
 DynamoDB is a NoSQL database service provided by AWS DynamoDB is a durable, secure data base. I have used Nodejs as backend and then connected it to AWS by Access key ID and secret access key.After this i created a table in DynamoDB for storing the user credentails. Later I used the bcrypt, a password hashing sysytem for security, through this function only the hashed password is stored in database and not the orginal password and is uses slow hashing intentionally to make it harder to crack.Finally I integrated frontned using HTML.
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-07%20072021.png?raw=true)
-![image](![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-03-26%20070654.png?raw=true))
+![image](![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-03-26%20070654.png?raw=true)
 
 
 # TASK 3: EC2 Instance
