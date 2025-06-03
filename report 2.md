@@ -92,11 +92,16 @@ Link: https://github.com/unnathi-rb/WEBSCRAPE
 
 # TASK 9: Socket.IO
 Socket.io is a Java script library that allows bidirectional communication in real-time, it is a connection between client and server. In this task I built simple chat application using node.js and socket.io where server and browser were able to connect.
-
 link: https://github.com/unnathi-rb/chatapp
 
-
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/Screenshot%202025-05-01%20233236.png?raw=true)
+
+# TASK 10: Kali Linux
+Kali Linux is a Linux distribution which is used for security testing, ethical hacking and penetration testing.In this task I performed a simple penetration test using NMap. Found open ports, penetrated and opened a session in it. Learnt the use of Kali linux and Virtual machine penetration. 
+![image](https://github.com/unnathi-rb/report-marvel/blob/main/WhatsApp%20Image%202025-06-03%20at%206.03.51%20PM%20(1).jpeg?raw=true)
+![image](https://github.com/unnathi-rb/report-marvel/blob/main/WhatsApp%20Image%202025-06-03%20at%206.03.51%20PM.jpeg?raw=true)
+
+
 
 
 
