@@ -13,3 +13,30 @@ This task was to create a server and use ssh to find all th key files concerned 
 Hashing is a method of converting an input(int or string of char) into another string of values obtained using a Hash function. It prevents easy hacking of confidential infomation becoz a hashed string cannot be 
 reversed into orginal data. In this task I used the hashlib python library to hash the passwords, the hashed passwords are stored with usernames in a dictionary.During login, the password verification is easily done by applying the same hash function to the input in password field. I have used SHA-256 hash function.
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/hashing%20task.jpg?raw=true)
+
+# Task 5: Jenkins
+Jenkins is a tool that automates the repetitive processes in software development.
+In this task, I created and automated a simple Rock–Paper–Scissors game using Jenkins. The Java program reads the user’s choice from an input.txt file, generates a random computer choice, compares the two, and displays the result. Using a Jenkins pipeline, the program is automated. It is complied using javac and executed with java.
+![image](https://github.com/unnathi-rb/report-marvel/blob/main/jenkins3.png?raw=true)
+![image](https://github.com/unnathi-rb/report-marvel/blob/main/jenkins1.jpeg?raw=true)
+
+# Task 6: Docker
+Docker is a tool that helps you run applications in small, isolated environments called containers. A container is like a small, isolated box that holds everything an application needs to run like
+its code, libraries, settings, and dependencies.
+Container image as a single package that contains everything needed to run a process.
+In this task, by following the resourced guide:
+- Installed docker
+- Ran container
+- Cloned and developed a project from Github(TODO APP)
+- Built a repository. Built and pushed a container image.
+  ![image](https://github.com/unnathi-rb/report-marvel/blob/main/docker%203.jpg?raw=true)
+  ![image](https://github.com/unnathi-rb/report-marvel/blob/main/docker.jpg?raw=true)
+
+# Task 7: Wireshark
+Wireshark is a Network packet analyzer tool. In this task , I was able to learn how this tool works. Firstly I captured the live network (Wi-Fi) in which I was able to see the all those live packets across protocols liake TCP,IPv4 etc. I also applied filter like Retransmissions and duplicate acknowledgement. I also viewed Statistics options like Protocol hierarcy and I/O Graphs.This task helped me understand Wi-Fi packet capture, protocol layers, and network troubleshooting.
+![image](https://github.com/unnathi-rb/report-marvel/blob/main/ws1.jpg?raw=true)
+![image](https://github.com/unnathi-rb/report-marvel/blob/main/ws3.jpg?raw=true)
+![image](https://github.com/unnathi-rb/report-marvel/blob/main/ws4.jpg?raw=true)
+
+
+  
