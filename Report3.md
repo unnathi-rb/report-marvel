@@ -45,5 +45,23 @@ Wireshark is a Network packet analyzer tool. In this task , I was able to learn 
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/ws3.jpg?raw=true)
 ![image](https://github.com/unnathi-rb/report-marvel/blob/main/ws4.jpg?raw=true)
 
+# Task 8: AWS Lambda
+In this task I deployed the Chat app using AWS Lambda, the Function as a service by Amazon web services. The backend code was deployed as the Lambda function For HTTP request handling I created a Websocket gateway under AWS API Gateway services. Whenever a user sends a chat message, the Lambda function is activated by AWS Gateway, which processes the request and stores then in AWS DynamoDB tables created.This task was to under the use of AWS services to run Event-driven cloud architecture which helps deploy applictions without managing servers.
+![image](
+![image](
+![image](
+
+# Task 9: Dockerize
+In this task I Dockerized the web app created earlier. I created a dockerfile in my web app folder itself , which helps in creating a an Image.It shall copy the backend files, installs dependencies,etc. An image stores all these backend requirements. Then I created an image called mongo to integrate the MongoDB database. Finally I created a Bridge network to help communicate between containers.
+![image](
+![image](
+
+# Task 10: WebScraping and Automation
+This task was to use selenium to automatically browse through a flight booking website called Expedia. Selenium is browser automation tool which is able to open the web page , enter the source and destination cities and dates in the respective input spaces and also clicks buttons. I also installed suitable CromeDriver which helps python code open chrome browsers. As selenium was blocked to open expedia directly through normal chromedriver , i had to use an undetected chromedriver. I had to include wait condition in the selenium code so as to allow the automatic loading of Expedia, a dynamic website.
+Finally for sending an email with the obtained price details, I used the python's SMTP. But an automatic email sending using code is blocked for safety purposes so I had to get the App password from my gmail.
+![image](
+![image](
+![image](
+
 
   
